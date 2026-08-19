@@ -12,19 +12,20 @@ Bu organizasyon, projenin birbirine entegre çalışan iki temel bileşenini bar
 
 ### Mobil Uygulama
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/704e4bdf-b1df-427a-bddb-12cc64804a7c" width="250" alt="Ana Sayfa Harita" />
-  <img src="https://github.com/user-attachments/assets/f98a3d75-fb77-474a-8e22-9f5067158946" width="250" alt="Şikayet Oluşturma" />
-  <img src="https://github.com/user-attachments/assets/1076d0d1-87a8-4097-9cf7-3f9a3bfdd6e5" width="250" alt="Şikayet Detay" />
+  <img src="https://github.com/user-attachments/assets/704e4bdf-b1df-427a-bddb-12cc64804a7c" width="270" alt="Ana Sayfa Harita" />
+  <img src="https://github.com/user-attachments/assets/f98a3d75-fb77-474a-8e22-9f5067158946" width="270" alt="Şikayet Oluşturma" />
+  <img src="https://github.com/user-attachments/assets/1076d0d1-87a8-4097-9cf7-3f9a3bfdd6e5" width="270" alt="Şikayet Detay" />
 </p>
 
 #### Rol Bazlı Şikayet Yönetimi ve İstatistikler
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/42e292f7-8bd3-4636-8426-fa63da61d206" width="200" alt="Vatandaş Görünümü" />
-  <img src="https://github.com/user-attachments/assets/019edf1a-9fd6-4c9d-9951-0d230c388c54" width="200" alt="Yönetici Görünümü" />
-  <img src="https://github.com/user-attachments/assets/caa1293a-faee-43ef-b7dd-65984f6c6c04" width="200" alt="Yönetim" />
-  <img src="https://github.com/user-attachments/assets/fe48860c-8eb6-4af1-86a4-71311f24a353" width="200" alt="Profil" />
+  <img src="https://github.com/user-attachments/assets/42e292f7-8bd3-4636-8426-fa63da61d206" width="380" alt="Vatandaş Görünümü" />
+  <img src="https://github.com/user-attachments/assets/019edf1a-9fd6-4c9d-9951-0d230c388c54" width="380" alt="Yönetici Görünümü" />
 </p>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/caa1293a-faee-43ef-b7dd-65984f6c6c04" width="380" alt="Yönetim" />
+  <img src="https://github.com/user-attachments/assets/fe48860c-8eb6-4af1-86a4-71311f24a353" width="380" alt="Profil" />
+</p>
 ### Web Yönetim Paneli (Admin Dashboard)
 <p align="center">
   <img src="[WEB_DASHBOARD_RESIM_LINKI]" width="800" alt="Web Admin Dashboard" />
