@@ -26,6 +26,7 @@ Bu organizasyon, projenin birbirine entegre çalışan iki temel bileşenini bar
   <img src="https://github.com/user-attachments/assets/caa1293a-faee-43ef-b7dd-65984f6c6c04" width="380" alt="Yönetim" />
   <img src="https://github.com/user-attachments/assets/fe48860c-8eb6-4af1-86a4-71311f24a353" width="380" alt="Profil" />
 </p>
+
 ### Web Yönetim Paneli (Admin Dashboard)
 <p align="center">
   <img src="[WEB_DASHBOARD_RESIM_LINKI]" width="800" alt="Web Admin Dashboard" />
