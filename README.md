@@ -27,19 +27,28 @@ Bu repo, projenin **Laravel tabanlı REST API ve Web Yönetim Paneli** bileşeni
 
 ### Web Yönetim Paneli (Admin Dashboard)
 
+### İstatistikler
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4ff9cf8b-17a5-4cb8-9021-3bb0d909c9a0" />
 </p>
+
+### Şikayetler Ve Detayları
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7c93f37e-1278-4599-917a-ca076393ade7" width="48%" />
   <img src="https://github.com/user-attachments/assets/a4d8901c-57fe-498a-bed4-52f342ae9321" width="48%" />
 </p>
+
+###Şikayet Güncelleme Ve Personel Atama
+
 <p align="center">
   <img  src="https://github.com/user-attachments/assets/3ad612b5-f28c-4e74-ba33-0a33f10ddab4" width="48%" />
   <img  src="https://github.com/user-attachments/assets/a6e3358d-200a-446f-8bff-4328185b312c" width="48%" />
 </p>
 
-#### Kullanıcı ve Yetki Yönetimi
+### Kullanıcı ve Yetki Yönetimi
+
 <p align="center">
   <img  src="https://github.com/user-attachments/assets/ad4657e5-0c15-4e6d-9ecb-dab5aa557951" width="48%" />
   <img  src="https://github.com/user-attachments/assets/5a042393-dbc2-4c4c-9ba7-3b6c98dcbb02" width="48%"  />
