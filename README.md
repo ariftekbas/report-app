@@ -12,7 +12,7 @@ Bu organizasyon, projenin birbirine entegre çalışan iki temel bileşenini bar
 
 ### Mobil Uygulama
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/84c2bfed-981a-4cba-b8bb-8040c8f4f985" width="250" alt="Ana Sayfa Harita" />
+  <img src="https://github.com/user-attachments/assets/704e4bdf-b1df-427a-bddb-12cc64804a7c" width="500" alt="Ana Sayfa Harita" />
   <img src="https://github.com/user-attachments/assets/f98a3d75-fb77-474a-8e22-9f5067158946" width="500" alt="Şikayet Oluşturma" />
   <img src="https://github.com/user-attachments/assets/1076d0d1-87a8-4097-9cf7-3f9a3bfdd6e5" width="500" alt="Şikayet Detay" />
 </p>
