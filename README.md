@@ -1,4 +1,4 @@
-# Şehir İçi Şikayet ve Talep Yönetim Sistemi — Backend & Web Admin
+<img width="1920" height="1080" alt="Ekran görüntüsü 2026-08-19 153819" src="https://github.com/user-attachments/assets/a33f8974-a121-4d66-bbe5-5353dcd57d9b" /># Şehir İçi Şikayet ve Talep Yönetim Sistemi — Backend & Web Admin
 
 Vatandaşların şehir içi altyapı, çevre ve temizlik gibi sorunlarını yerel yönetimlere hızlıca iletebildiği; yetkililerin ise bu talepleri tek bir merkezden yönetip sahadaki personellere atayabildiği **uçtan uca entegre bir akıllı şehir çözümüdür.**
 
@@ -28,25 +28,25 @@ Bu repo, projenin **Laravel tabanlı REST API ve Web Yönetim Paneli** bileşeni
 ### Web Yönetim Paneli (Admin Dashboard)
 
 <p align="center">
-  <img src="docs/images/web-admin/dashboard.png" width="800" alt="Web Admin Dashboard - Kontrol Paneli" />
+  <img width="1920" height="1080" alt="Ekran görüntüsü 2026-08-19 153819" src="https://github.com/user-attachments/assets/4ff9cf8b-17a5-4cb8-9021-3bb0d909c9a0" />
 </p>
 <p align="center">
-  <img src="docs/images/web-admin/sikayet-listesi.png" width="400" alt="Web Şikayet Listesi" />
-  <img src="docs/images/web-admin/sikayet-detay.png" width="400" alt="Şikayet Detayı" />
+  <img width="1920" height="1080" alt="Ekran görüntüsü 2026-08-19 153826 - Kopya" src="https://github.com/user-attachments/assets/7c93f37e-1278-4599-917a-ca076393ade7" />
+  <img width="1920" height="1080" alt="Ekran görüntüsü 2026-08-19 153836 - Kopya" src="https://github.com/user-attachments/assets/a4d8901c-57fe-498a-bed4-52f342ae9321" />
 </p>
 <p align="center">
-  <img src="docs/images/web-admin/personel-ata.png" width="400" alt="Web Görev Atama" />
-  <img src="docs/images/web-admin/durum-guncelle.png" width="400" alt="Şikayet Durum Güncelleme" />
+  <img width="1920" height="1080" alt="Ekran görüntüsü 2026-08-19 153848 - Kopya - Kopya" src="https://github.com/user-attachments/assets/3ad612b5-f28c-4e74-ba33-0a33f10ddab4" />
+  <img width="1920" height="1080" alt="Ekran görüntüsü 2026-08-19 153856 - Kopya - Kopya" src="https://github.com/user-attachments/assets/a6e3358d-200a-446f-8bff-4328185b312c" />
 </p>
 
 #### Kullanıcı ve Yetki Yönetimi
 <p align="center">
-  <img src="docs/images/web-admin/yonetici-listesi.png" width="400" alt="Yönetici Listesi" />
-  <img src="docs/images/web-admin/calisan-listesi.png" width="400" alt="Çalışan Listesi" />
+  <img width="1920" height="1080" alt="Ekran görüntüsü 2026-08-19 153908 - Kopya - Kopya" src="https://github.com/user-attachments/assets/ad4657e5-0c15-4e6d-9ecb-dab5aa557951" />
+  <img width="1920" height="1080" alt="Ekran görüntüsü 2026-08-19 153933 - Kopya" src="https://github.com/user-attachments/assets/5a042393-dbc2-4c4c-9ba7-3b6c98dcbb02" />
 </p>
 <p align="center">
-  <img src="docs/images/web-admin/personel-profili.png" width="400" alt="Personel Profili ve Atandığı Şikayetler" />
-  <img src="docs/images/web-admin/yetki-yonetimi.png" width="400" alt="Rol Bazlı Yetki Yönetimi" />
+  <img width="1920" height="1080" alt="Ekran görüntüsü 2026-08-19 153942 - Kopya" src="https://github.com/user-attachments/assets/f0ad6d9f-7f74-4d91-a982-8fb44e511878" />
+  <img width="1920" height="1080" alt="Ekran görüntüsü 2026-08-19 153957" src="https://github.com/user-attachments/assets/0a825051-0de1-4ad2-902b-4ab54e5160ea" />
 </p>
 
 ---
