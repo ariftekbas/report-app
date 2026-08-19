@@ -19,10 +19,10 @@ Bu organizasyon, projenin birbirine entegre çalışan iki temel bileşenini bar
 
 #### Rol Bazlı Şikayet Yönetimi ve İstatistikler
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/42e292f7-8bd3-4636-8426-fa63da61d206" width="250" alt="Vatandaş Görünümü" />
-  <img src="https://github.com/user-attachments/assets/019edf1a-9fd6-4c9d-9951-0d230c388c54" width="250" alt="Yönetici Görünümü" />
+  <img src="https://github.com/user-attachments/assets/42e292f7-8bd3-4636-8426-fa63da61d206" width="500" alt="Vatandaş Görünümü" />
+  <img src="https://github.com/user-attachments/assets/019edf1a-9fd6-4c9d-9951-0d230c388c54" width="500" alt="Yönetici Görünümü" />
   <img src="https://github.com/user-attachments/assets/caa1293a-faee-43ef-b7dd-65984f6c6c04" width="500" alt="Yönetim" />
-  <img src="https://github.com/user-attachments/assets/fe48860c-8eb6-4af1-86a4-71311f24a353" width="250" alt="Profil" />
+  <img src="https://github.com/user-attachments/assets/fe48860c-8eb6-4af1-86a4-71311f24a353" width="500" alt="Profil" />
 </p>
 
 ### Web Yönetim Paneli (Admin Dashboard)
