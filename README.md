@@ -79,7 +79,7 @@ Yetkililerin şehre dair tüm verileri kuşbakışı incelediği ve operasyonu y
 
 Sistemin kaynak kodlarına aşağıdaki bağlantılardan ulaşabilirsiniz:
 
-* **[Mobil Uygulama Reposu (Flutter) ➔](https://github.com/sikayet-app/sikayet_uygulamasi)** 
-* **[Backend & Web Admin Reposu (Laravel) ➔](https://github.com/sikayet-app/report-app-backend)**
+* **[Mobil Uygulama Reposu (Flutter)](https://github.com/sikayet-app/sikayet_uygulamasi)** 
+* **[Backend & Web Admin Reposu (Laravel)](https://github.com/sikayet-app/report-app-backend)**
 
 ---
