@@ -164,31 +164,6 @@ Sahada veri girişini ve takibini kolaylaştırmak için tasarlanmıştır.
 
 ## 🚀 Backend Kurulumu
 
-> **Gereksinimler:** PHP ^8.1, Composer, MySQL, Node.js (asset build için opsiyonel)
-
-```bash
-# 1. Repoyu klonlayın
-git clone https://github.com/sikayet-app/report-app-backend.git
-cd report-app-backend
-
-# 2. Bağımlılıkları yükleyin
-composer install
-
-# 3. Ortam dosyasını oluşturun ve uygulama anahtarını üretin
-cp .env.example .env
-php artisan key:generate
-
-# 4. .env dosyasında veritabanı bilgilerinizi düzenleyin
-
-# 5. Veritabanı tablolarını oluşturun ve örnek verileri yükleyin
-php artisan migrate --seed
-
-# 6. Yüklenen görsellerin (şikayet fotoğrafları vb.) erişilebilir olması için
-php artisan storage:link
-
-# 7. Geliştirme sunucusunu başlatın
-php artisan serve
-```
 
 Uygulama varsayılan olarak `http://127.0.0.1:8000` adresinde çalışır. API uç noktaları ve mobil uygulama bu adres üzerinden Sanctum token'ları ile kimlik doğrulaması yaparak haberleşir.
 
