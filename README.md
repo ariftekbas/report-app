@@ -21,6 +21,14 @@
 [Özellikler](#-temel-özellikler) · [Ekran Görüntüleri](#-ekran-görüntüleri) · [Teknolojiler](#️-kullanılan-teknolojiler) · [Kurulum](#-backend-kurulumu) · [Reporlar](#-organizasyon-repoları)
 
 </div>
+## 🔗 Organizasyon Repoları
+
+| Repo | Açıklama |
+|---|---|
+| 📱 [`sikayet_uygulamasi`](https://github.com/sikayet-app/sikayet_uygulamasi) | Mobil Uygulama (Flutter) |
+| 🖥️ [`report-app-backend`](https://github.com/sikayet-app/report-app-backend) | Backend & Web Admin (Laravel) |
+
+<br>
 
 ---
 
@@ -177,11 +185,6 @@ cp .env.example .env
 php artisan key:generate
 
 # 4. .env dosyasında veritabanı bilgilerinizi düzenleyin
-#    DB_CONNECTION=mysql
-#    DB_HOST=127.0.0.1
-#    DB_DATABASE=report_app
-#    DB_USERNAME=...
-#    DB_PASSWORD=...
 
 # 5. Veritabanı tablolarını oluşturun ve örnek verileri yükleyin
 php artisan migrate --seed
@@ -197,14 +200,6 @@ Uygulama varsayılan olarak `http://127.0.0.1:8000` adresinde çalışır. API u
 
 <br>
 
-## 🔗 Organizasyon Repoları
-
-| Repo | Açıklama |
-|---|---|
-| 📱 [`sikayet_uygulamasi`](https://github.com/sikayet-app/sikayet_uygulamasi) | Mobil Uygulama (Flutter) |
-| 🖥️ [`report-app-backend`](https://github.com/sikayet-app/report-app-backend) | Backend & Web Admin (Laravel) |
-
-<br>
 
 ## 📄 Lisans
 
@@ -214,6 +209,6 @@ Bu proje [MIT lisansı](https://opensource.org/licenses/MIT) ile lisanslanmışt
 
 ---
 
-Made with ❤️ for daha yaşanabilir şehirler
+GBB Bilişim ile daha yaşanabilir şehirler
 
 </div>
