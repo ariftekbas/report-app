@@ -21,6 +21,8 @@
 [Özellikler](#-temel-özellikler) · [Ekran Görüntüleri](#-ekran-görüntüleri) · [Teknolojiler](#️-kullanılan-teknolojiler) · [Kurulum](#-backend-kurulumu) · [Reporlar](#-organizasyon-repoları)
 
 </div>
+<br>
+
 ## 🔗 Organizasyon Repoları
 
 | Repo | Açıklama |
@@ -48,9 +50,7 @@ Vatandaşların şehir içi altyapı, çevre ve temizlik gibi sorunlarını yere
   <img src="https://github.com/user-attachments/assets/1076d0d1-87a8-4097-9cf7-3f9a3bfdd6e5" width="270" alt="Şikayet Detay" />
 </p>
 
-<details>
-<summary><b>Rol Bazlı Şikayet Yönetimi ve İstatistikler</b> (genişletmek için tıklayın)</summary>
-<br>
+**Rol Bazlı Şikayet Yönetimi ve İstatistikler**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/42e292f7-8bd3-4636-8426-fa63da61d206" width="380" alt="Vatandaş Görünümü" />
@@ -60,8 +60,6 @@ Vatandaşların şehir içi altyapı, çevre ve temizlik gibi sorunlarını yere
   <img src="https://github.com/user-attachments/assets/caa1293a-faee-43ef-b7dd-65984f6c6c04" width="380" alt="Yönetim" />
   <img src="https://github.com/user-attachments/assets/fe48860c-8eb6-4af1-86a4-71311f24a353" width="380" alt="Profil" />
 </p>
-
-</details>
 
 ### 🖥️ Web Yönetim Paneli (Admin Dashboard)
 
@@ -85,9 +83,7 @@ Vatandaşların şehir içi altyapı, çevre ve temizlik gibi sorunlarını yere
   <img src="https://github.com/user-attachments/assets/a6e3358d-200a-446f-8bff-4328185b312c" width="48%" />
 </p>
 
-<details>
-<summary><b>Kullanıcı ve Yetki Yönetimi</b> (genişletmek için tıklayın)</summary>
-<br>
+**Kullanıcı ve Yetki Yönetimi**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ad4657e5-0c15-4e6d-9ecb-dab5aa557951" width="48%" />
@@ -97,8 +93,6 @@ Vatandaşların şehir içi altyapı, çevre ve temizlik gibi sorunlarını yere
   <img src="https://github.com/user-attachments/assets/f0ad6d9f-7f74-4d91-a982-8fb44e511878" width="48%" />
   <img src="https://github.com/user-attachments/assets/0a825051-0de1-4ad2-902b-4ab54e5160ea" width="48%" />
 </p>
-
-</details>
 
 <br>
 
@@ -198,8 +192,6 @@ php artisan serve
 
 Uygulama varsayılan olarak `http://127.0.0.1:8000` adresinde çalışır. API uç noktaları ve mobil uygulama bu adres üzerinden Sanctum token'ları ile kimlik doğrulaması yaparak haberleşir.
 
-<br>
-
 
 ## 📄 Lisans
 
@@ -209,6 +201,6 @@ Bu proje [MIT lisansı](https://opensource.org/licenses/MIT) ile lisanslanmışt
 
 ---
 
-GBB Bilişim ile daha yaşanabilir şehirler
+Made with ❤️ for daha yaşanabilir şehirler
 
 </div>
