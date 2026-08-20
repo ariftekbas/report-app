@@ -201,6 +201,6 @@ Bu proje [MIT lisansı](https://opensource.org/licenses/MIT) ile lisanslanmışt
 
 ---
 
-Made with ❤️ for daha yaşanabilir şehirler
+GBB Bilişişim ile daha yaşanabilir şehirler
 
 </div>
