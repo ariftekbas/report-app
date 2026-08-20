@@ -201,6 +201,6 @@ Bu proje [MIT lisansı](https://opensource.org/licenses/MIT) ile lisanslanmışt
 
 ---
 
-GBB Bilişişim ile daha yaşanabilir şehirler
+GBB Bilişim ile daha yaşanabilir şehirler
 
 </div>
